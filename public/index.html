@@ -135,9 +135,7 @@ tr:hover td{background:rgba(34,211,167,.04)}
 </div>
 
 <script>
-// ───────────────────────────────────────────────────────────────
 // Data layer: lazy load + cache
-// ───────────────────────────────────────────────────────────────
 const DATA_BASE = './data/';
 const cache = {};
 const chartInstances = {};
@@ -157,9 +155,7 @@ async function fetchJSON(name) {
   }
 }
 
-// ───────────────────────────────────────────────────────────────
 // Helpers
-// ───────────────────────────────────────────────────────────────
 const fmt = (v, dec=2) => v == null ? 'N/A' : Number(v).toFixed(dec);
 const fmtPct = (v, dec=1) => v == null ? 'N/A' : Number(v).toFixed(dec) + '%';
 const fmtMoney = (v, dec=2) => v == null ? 'N/A' : '$' + Number(v).toFixed(dec);
@@ -240,9 +236,7 @@ function statusBadge(status) {
   return `<span class="badge badge-blue">${esc(status)}</span>`;
 }
 
-// ───────────────────────────────────────────────────────────────
 // Tab switching
-// ───────────────────────────────────────────────────────────────
 const loaded = {};
 document.getElementById('tab-bar').addEventListener('click', e => {
   const btn = e.target.closest('.tab-btn');
@@ -255,9 +249,7 @@ document.getElementById('tab-bar').addEventListener('click', e => {
   if (!loaded[tab]) { loaded[tab] = true; loaders[tab](); }
 });
 
-// ───────────────────────────────────────────────────────────────
 // Tab loaders
-// ───────────────────────────────────────────────────────────────
 const loaders = {
   overview: loadOverview,
   monitoring: loadMonitoring,
@@ -267,7 +259,7 @@ const loaders = {
   opportunity: loadOpportunity,
 };
 
-// ── OVERVIEW ──────────────────────────────────────────────────
+// OVERVIEW
 async function loadOverview() {
   const panel = document.getElementById('panel-overview');
   const [report, mon] = await Promise.all([fetchJSON('report.json'), fetchJSON('monitoring.json')]);
@@ -315,7 +307,7 @@ async function loadOverview() {
   panel.innerHTML = html || noData();
 }
 
-// ── MONITORING ────────────────────────────────────────────────
+// MONITORING
 async function loadMonitoring() {
   const panel = document.getElementById('panel-monitoring');
   const mon = await fetchJSON('monitoring.json');
@@ -384,7 +376,7 @@ async function loadMonitoring() {
   }
 }
 
-// ── PROJECTIONS ───────────────────────────────────────────────
+// PROJECTIONS
 async function loadProjections() {
   const panel = document.getElementById('panel-projections');
   const data = await fetchJSON('rpu_output.json');
@@ -503,7 +495,7 @@ async function loadProjections() {
   }));
 }
 
-// ── RCA ───────────────────────────────────────────────────────
+// RCA
 async function loadRCA() {
   const panel = document.getElementById('panel-rca');
   const rca = await fetchJSON('rca.json');
@@ -530,7 +522,7 @@ async function loadRCA() {
         if (node.all_contributions) {
           html += '<div style="margin-top:6px;font-size:.78rem;color:var(--dim)">';
           Object.entries(node.all_contributions).slice(0,8).forEach(([k,v]) => {
-            html += `<span style="margin-right:12px">${esc(k)}: <span style="color:${v>=0?'var(--accent)':'var(--red)';font-family:var(--mono)}">${fmt(v,4)}</span></span>`;
+            html += `<span style="margin-right:12px">${esc(k)}: <span style="color:${v>=0?'var(--accent)':'var(--red)'};font-family:var(--mono)">${fmt(v,4)}</span></span>`;
           });
           html += '</div>';
         }
@@ -584,7 +576,7 @@ async function loadRCA() {
   panel.innerHTML = html || noData();
 }
 
-// ── INSIGHTS ──────────────────────────────────────────────────
+// INSIGHTS
 async function loadInsights() {
   const panel = document.getElementById('panel-insights');
   const ins = await fetchJSON('insights.json');
@@ -653,7 +645,7 @@ async function loadInsights() {
   panel.innerHTML = html || noData();
 }
 
-// ── OPPORTUNITY ───────────────────────────────────────────────
+// OPPORTUNITY
 async function loadOpportunity() {
   const panel = document.getElementById('panel-opportunity');
   const opp = await fetchJSON('opportunity.json');
@@ -710,9 +702,7 @@ async function loadOpportunity() {
   }
 }
 
-// ───────────────────────────────────────────────────────────────
 // Init
-// ───────────────────────────────────────────────────────────────
 (async function init() {
   const manifest = await fetchJSON('manifest.json');
   if (manifest?.generated_at_ist) {
