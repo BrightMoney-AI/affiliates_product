@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-03-27T19:10:02.129036+00:00",
+  "scenarios": [],
+  "impression_optimizer": {
+    "current_allocation": {
+      "Comms": 0.8462,
+      "F1": 0.1538
+    },
+    "optimal_allocation": {
+      "Comms": 0.8462,
+      "F1": 0.1538
+    },
+    "projected_rpu_improvement": 0.0
+  }
+}

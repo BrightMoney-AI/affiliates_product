@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-03-27T19:10:00.783811+00:00",
+  "topdown_rca": {
+    "rca_tree": {
+      "level_1": {
+        "dimension": "TOUCHPOINT",
+        "top_contributor": "Discover Tab",
+        "contribution": -0.002517049184034329,
+        "total_change": -0.007033143416920566,
+        "share": 0.3578839552708011,
+        "all_contributions": {
+          "AI_assistant": -0.0008739626960391436,
+          "Comms": -0.000511675286827604,
+          "Dashboard": -0.00024567963095212107,
+          "Discover Tab": -0.002517049184034329,
+          "F1": -0.0005347237598350917,
+          "F2": -0.001541396263366836,
+          "F3": -0.0008086565958654412
+        }
+      }
+    },
+    "root_cause_summary": "Drill path: TOUCHPOINT=Discover Tab",
+    "confidence": "medium"
+  },
+  "cohort_maturity": {
+    "cohorts": [
+      {
+        "cohort_date": "2026-03-02T00:00:00",
+        "maturity_weeks": 3,
+        "rpu": 0.009281651245041083,
+        "w1": {
+          "status": "on_track",
+          "percentile": 74.3,
+          "expected_range": [
+            0.0074,
+            0.0093
+          ]
+        },
+        "w2w4": {
+          "status": "on_track",
+          "percentile": 75.0,
+          "expected_range": [
+            0.0073,
+            0.0092
+          ]
+        },
+        "m3": {
+          "status": "too_early",
+          "percentile": null,
+          "expected_range": null
+        }
+      },
+      {
+        "cohort_date": "2026-03-09T00:00:00",
+        "maturity_weeks": 2,
+        "rpu": 0.008165337702514926,
+        "w1": {
+          "status": "on_track",
+          "percentile": 52.8,
+          "expected_range": [
+            0.0074,
+            0.0093
+          ]
+        },
+        "w2w4": {
+          "status": "on_track",
+          "percentile": 57.6,
+          "expected_range": [
+            0.0073,
+            0.0092
+          ]
+        },
+        "m3": {
+          "status": "too_early",
+          "percentile": null,
+          "expected_range": null
+        }
+      },
+      {
+        "cohort_date": "2026-03-16T00:00:00",
+        "maturity_weeks": 1,
+        "rpu": 0.007033143416920566,
+        "w1": {
+          "status": "below_expected",
+          "percentile": 13.5,
+          "expected_range": [
+            0.0075,
+            0.0093
+          ]
+        },
+        "w2w4": {
+          "status": "below_expected",
+          "percentile": 14.7,
+          "expected_range": [
+            0.0073,
+            0.0091
+          ]
+        },
+        "m3": {
+          "status": "too_early",
+          "percentile": null,
+          "expected_range": null
+        }
+      },
+      {
+        "cohort_date": "2026-03-23T00:00:00",
+        "maturity_weeks": 0,
+        "rpu": 0.0,
+        "w1": {
+          "status": "below_expected",
+          "percentile": 0.0,
+          "expected_range": [
+            0.0073,
+            0.0092
+          ]
+        },
+        "w2w4": {
+          "status": "too_early",
+          "percentile": null,
+          "expected_range": null
+        },
+        "m3": {
+          "status": "too_early",
+          "percentile": null,
+          "expected_range": null
+        }
+      }
+    ]
+  },
+  "trend_analysis": {
+    "overall_trend": "declining",
+    "overall_slope": -0.001432,
+    "classification": "structural",
+    "structural_drivers": [
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "brigit",
+        "segment": "NS1/3 & all CS",
+        "weight": 0.0546,
+        "slopes": {
+          "Imp_pct": 0.015204,
+          "CTR": -0.004966,
+          "RPC": -0.143579
+        },
+        "contribution": 0.008941
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "current",
+        "segment": "NS2 & all CS",
+        "weight": 0.1183,
+        "slopes": {
+          "Imp_pct": 0.043809,
+          "CTR": 0.001687,
+          "RPC": -0.02596
+        },
+        "contribution": 0.008451
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "cash_advance",
+        "segment": "NS1/3 & all CS",
+        "weight": 0.0468,
+        "slopes": {
+          "Imp_pct": 0.015204,
+          "CTR": -0.002208,
+          "RPC": -0.153322
+        },
+        "contribution": 0.007983
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "cash_advance",
+        "segment": "NS2 & all CS",
+        "weight": 0.0701,
+        "slopes": {
+          "Imp_pct": 0.021517,
+          "CTR": -0.000124,
+          "RPC": -0.089595
+        },
+        "contribution": 0.007798
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "current",
+        "segment": "NS2 & all CS",
+        "weight": 0.0698,
+        "slopes": {
+          "Imp_pct": 0.021517,
+          "CTR": 0.00663,
+          "RPC": -0.064411
+        },
+        "contribution": 0.006457
+      }
+    ],
+    "narrative": "RPU trend is declining and structural, spread across many touchpoint/lender/segment combinations."
+  },
+  "nonclick_rca": {
+    "total_nonclick_payout": 0.0,
+    "share_of_total": 0.0,
+    "by_lender": [
+      {
+        "lender": "5kfunds",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "amone_kovo_card",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "amone_step_card",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "auto_insurance",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "brigit",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "cash_advance",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "cleo",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "credit_card_omf",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "current",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "lender": "debt_relief",
+        "payout": 0.0,
+        "share": 0.0
+      }
+    ],
+    "by_segment": [
+      {
+        "segment": "NS1/3 & all CS",
+        "payout": 0.0,
+        "share": 0.0
+      },
+      {
+        "segment": "NS2 & all CS",
+        "payout": 0.0,
+        "share": 0.0
+      }
+    ],
+    "trend": "flat",
+    "trend_slope": 0.0
+  }
+}

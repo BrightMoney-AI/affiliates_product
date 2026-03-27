@@ -1,0 +1,3427 @@
+{
+  "generated_at": "2026-03-27T19:10:01.440789+00:00",
+  "affiliate_rankings": {
+    "lenders": [
+      {
+        "lender": "cash_advance",
+        "rpu_contribution": 0.0322,
+        "growth_slope": -170.5179,
+        "rpc_stability_cv": 0.2068,
+        "conversion_rate": 0.0466,
+        "total_payout_4w": 2634.75,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS1/3 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "current",
+        "rpu_contribution": 0.0266,
+        "growth_slope": -1094.9392,
+        "rpc_stability_cv": 0.1589,
+        "conversion_rate": 0.0658,
+        "total_payout_4w": 10710.29,
+        "best_touchpoint": "F2",
+        "best_segment": "NS1/3 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "brigit",
+        "rpu_contribution": 0.0196,
+        "growth_slope": -383.5714,
+        "rpc_stability_cv": 0.2761,
+        "conversion_rate": 0.0105,
+        "total_payout_4w": 3440.0,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS1/3 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "personal_loans",
+        "rpu_contribution": 0.0092,
+        "growth_slope": -178.4026,
+        "rpc_stability_cv": 0.4523,
+        "conversion_rate": 0.177,
+        "total_payout_4w": 3626.98,
+        "best_touchpoint": "Dashboard",
+        "best_segment": "NS1/3 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "free_cash",
+        "rpu_contribution": 0.0047,
+        "growth_slope": -151.75,
+        "rpc_stability_cv": 0.1767,
+        "conversion_rate": 0.1328,
+        "total_payout_4w": 777.0,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS2 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "kashkick",
+        "rpu_contribution": 0.0023,
+        "growth_slope": -41.7857,
+        "rpc_stability_cv": 0.6581,
+        "conversion_rate": 0.0352,
+        "total_payout_4w": 660.0,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS2 & all CS",
+        "tier": "Tier 2 Stable"
+      },
+      {
+        "lender": "5kfunds",
+        "rpu_contribution": 0.0005,
+        "growth_slope": 0.12,
+        "rpc_stability_cv": 1.4211,
+        "conversion_rate": 0.4091,
+        "total_payout_4w": 42.05,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS2 & all CS",
+        "tier": "Tier 1 Star"
+      },
+      {
+        "lender": "lending_for_bad_credit",
+        "rpu_contribution": 0.0003,
+        "growth_slope": -2.362,
+        "rpc_stability_cv": 0.3156,
+        "conversion_rate": 0.6923,
+        "total_payout_4w": 22.47,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS1/3 & all CS",
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "engine_credit_card",
+        "rpu_contribution": 0.0001,
+        "growth_slope": -14.4201,
+        "rpc_stability_cv": 1.1386,
+        "conversion_rate": 0.0017,
+        "total_payout_4w": 14.55,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS2 & all CS",
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "my_lending_wallet",
+        "rpu_contribution": 0.0001,
+        "growth_slope": -2.2899,
+        "rpc_stability_cv": 0.4175,
+        "conversion_rate": 0.2182,
+        "total_payout_4w": 10.71,
+        "best_touchpoint": "Discover Tab",
+        "best_segment": "NS2 & all CS",
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "amone_kovo_card",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "amone_step_card",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "auto_insurance",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "cleo",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "credit_card_omf",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "debt_relief",
+        "rpu_contribution": 0.0,
+        "growth_slope": -10.1392,
+        "rpc_stability_cv": 2.195,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "earnin",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "kashkick_engine",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "kikoff",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "lexington_law",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "moneylion_cashadvance",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "my_degree",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "ndr",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "pre_qual_cc",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "super_money",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      },
+      {
+        "lender": "upgrade_personal_loan",
+        "rpu_contribution": 0.0,
+        "growth_slope": 0.0,
+        "rpc_stability_cv": 0.0,
+        "conversion_rate": 0.0,
+        "total_payout_4w": 0.0,
+        "best_touchpoint": null,
+        "best_segment": null,
+        "tier": "Tier 4 Declining"
+      }
+    ]
+  },
+  "touchpoint_effectiveness": {
+    "touchpoints": [
+      {
+        "touchpoint": "AI_assistant",
+        "imp_pct": 0.0,
+        "ctr": 0.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -1.0,
+          "ctr": -1.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 1.82,
+          "w2_w4_pct": 5.25,
+          "m3_pct": 21.99
+        }
+      },
+      {
+        "touchpoint": "Comms",
+        "imp_pct": 0.0009,
+        "ctr": 1.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -0.9448,
+          "ctr": 0.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 3.75,
+          "w2_w4_pct": 12.16,
+          "m3_pct": 22.35
+        }
+      },
+      {
+        "touchpoint": "Dashboard",
+        "imp_pct": 0.0,
+        "ctr": 0.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -1.0,
+          "ctr": -1.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 12.5,
+          "w2_w4_pct": 45.3,
+          "m3_pct": 20.91
+        }
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "imp_pct": 0.0,
+        "ctr": 0.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -1.0,
+          "ctr": -1.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 4.64,
+          "w2_w4_pct": 15.5,
+          "m3_pct": 23.15
+        }
+      },
+      {
+        "touchpoint": "F1",
+        "imp_pct": 0.0002,
+        "ctr": 0.5,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -0.9965,
+          "ctr": 0.3333,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 25.31,
+          "w2_w4_pct": 35.13,
+          "m3_pct": 8.08
+        }
+      },
+      {
+        "touchpoint": "F2",
+        "imp_pct": 0.0,
+        "ctr": 0.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -1.0,
+          "ctr": -1.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 5.23,
+          "w2_w4_pct": 15.51,
+          "m3_pct": 12.32
+        }
+      },
+      {
+        "touchpoint": "F3",
+        "imp_pct": 0.0,
+        "ctr": 0.0,
+        "rpc": 0.0,
+        "rpu_contribution": 0.0,
+        "conversion_rate": 0.0,
+        "wow_changes": {
+          "imp_pct": -1.0,
+          "ctr": -1.0,
+          "rpc": -1.0,
+          "rpu_contribution": -1.0
+        },
+        "revenue_timing": {
+          "w1_pct": 0.02,
+          "w2_w4_pct": 1.61,
+          "m3_pct": 22.02
+        }
+      }
+    ],
+    "best_touchpoint_per_segment": {
+      "NS1/3 & all CS": "Dashboard",
+      "NS2 & all CS": "Dashboard"
+    },
+    "best_touchpoint_per_lender": {
+      "5kfunds": "Discover Tab",
+      "brigit": "Discover Tab",
+      "cash_advance": "Discover Tab",
+      "cleo": "Discover Tab",
+      "current": "AI_assistant",
+      "debt_relief": "AI_assistant",
+      "earnin": "Discover Tab",
+      "engine_credit_card": "F2",
+      "free_cash": "Discover Tab",
+      "kashkick": "Discover Tab",
+      "kashkick_engine": "Discover Tab",
+      "lending_for_bad_credit": "Discover Tab",
+      "my_lending_wallet": "Discover Tab",
+      "ndr": "Discover Tab",
+      "personal_loans": "Dashboard",
+      "super_money": "Discover Tab"
+    }
+  },
+  "affinity_matrix": {
+    "matrix": [
+      {
+        "segment": "NS1/3 & all CS",
+        "lenders": {
+          "5kfunds": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "amone_kovo_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "amone_step_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "auto_insurance": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "brigit": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "cash_advance": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "cleo": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "credit_card_omf": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "current": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "debt_relief": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "earnin": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "engine_credit_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "free_cash": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "kashkick": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "kashkick_engine": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "kikoff": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "lending_for_bad_credit": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "lexington_law": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "moneylion_cashadvance": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "my_degree": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "my_lending_wallet": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "ndr": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "personal_loans": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "pre_qual_cc": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "super_money": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "upgrade_personal_loan": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          }
+        }
+      },
+      {
+        "segment": "NS2 & all CS",
+        "lenders": {
+          "5kfunds": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "amone_kovo_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "amone_step_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "auto_insurance": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "brigit": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "cash_advance": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "cleo": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "credit_card_omf": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "current": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "debt_relief": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "earnin": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "engine_credit_card": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "free_cash": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "kashkick": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "kashkick_engine": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "kikoff": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "lending_for_bad_credit": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "lexington_law": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "moneylion_cashadvance": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "my_degree": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "my_lending_wallet": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "ndr": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "personal_loans": {
+            "rpu_contribution": 0.0,
+            "trend": "down"
+          },
+          "pre_qual_cc": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "super_money": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          },
+          "upgrade_personal_loan": {
+            "rpu_contribution": 0.0,
+            "trend": "flat"
+          }
+        }
+      }
+    ]
+  },
+  "concentration": {
+    "lender": {
+      "hhi": 0.0,
+      "top_3_share": 0.0,
+      "spof_risk": {
+        "entity": null,
+        "share": 0.0
+      },
+      "wow_hhi_change": -0.3382,
+      "direction": "diversifying",
+      "warning": false
+    },
+    "touchpoint": {
+      "hhi": 0.0,
+      "top_3_share": 0.0,
+      "spof_risk": {
+        "entity": null,
+        "share": 0.0
+      },
+      "wow_hhi_change": -0.2171,
+      "direction": "diversifying",
+      "warning": false
+    }
+  },
+  "funnel_leakage": {
+    "leakages": [
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "ndr",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0156,
+            "median": 0.2691,
+            "gap": 0.2534
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0041,
+            "median": 0.0507,
+            "gap": 0.0466
+          }
+        ],
+        "estimated_rpu_upside": 1.1683
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "ndr",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0226,
+            "median": 0.2691,
+            "gap": 0.2465
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0013,
+            "median": 0.0507,
+            "gap": 0.0494
+          }
+        ],
+        "estimated_rpu_upside": 1.0684
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "debt_relief",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0116,
+            "median": 0.2691,
+            "gap": 0.2575
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0049,
+            "median": 0.0507,
+            "gap": 0.0458
+          }
+        ],
+        "estimated_rpu_upside": 0.2914
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "debt_relief",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0092,
+            "median": 0.2691,
+            "gap": 0.2599
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0089,
+            "median": 0.0507,
+            "gap": 0.0418
+          }
+        ],
+        "estimated_rpu_upside": 0.2391
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "earnin",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0168,
+            "median": 0.2691,
+            "gap": 0.2523
+          }
+        ],
+        "estimated_rpu_upside": 0.0786
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "cash_advance",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0985,
+            "median": 0.2691,
+            "gap": 0.1705
+          }
+        ],
+        "estimated_rpu_upside": 0.0662
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "free_cash",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.032,
+            "median": 0.2691,
+            "gap": 0.237
+          }
+        ],
+        "estimated_rpu_upside": 0.0653
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0065,
+            "median": 0.0507,
+            "gap": 0.0442
+          }
+        ],
+        "estimated_rpu_upside": 0.0564
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "earnin",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0229,
+            "median": 0.2691,
+            "gap": 0.2461
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0088,
+            "median": 0.0507,
+            "gap": 0.0418
+          }
+        ],
+        "estimated_rpu_upside": 0.0535
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "free_cash",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0492,
+            "median": 0.2691,
+            "gap": 0.2199
+          }
+        ],
+        "estimated_rpu_upside": 0.0529
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "brigit",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0116,
+            "median": 0.0507,
+            "gap": 0.0391
+          }
+        ],
+        "estimated_rpu_upside": 0.0433
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "kashkick",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0222,
+            "median": 0.2691,
+            "gap": 0.2469
+          }
+        ],
+        "estimated_rpu_upside": 0.0418
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "current",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.1164,
+            "median": 0.2691,
+            "gap": 0.1526
+          }
+        ],
+        "estimated_rpu_upside": 0.0384
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "kashkick",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0161,
+            "median": 0.2691,
+            "gap": 0.2529
+          }
+        ],
+        "estimated_rpu_upside": 0.0375
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.024,
+            "median": 0.0507,
+            "gap": 0.0266
+          }
+        ],
+        "estimated_rpu_upside": 0.0312
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "cash_advance",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.134,
+            "median": 0.2691,
+            "gap": 0.1351
+          }
+        ],
+        "estimated_rpu_upside": 0.0295
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "current",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.1053,
+            "median": 0.2691,
+            "gap": 0.1637
+          }
+        ],
+        "estimated_rpu_upside": 0.0276
+      },
+      {
+        "touchpoint": "Dashboard",
+        "lender": "personal_loans",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 2.9331,
+            "median": 6.9754,
+            "gap": 4.0424
+          }
+        ],
+        "estimated_rpu_upside": 0.0257
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "super_money",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0397,
+            "median": 0.2691,
+            "gap": 0.2294
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0155,
+            "median": 0.0507,
+            "gap": 0.0352
+          }
+        ],
+        "estimated_rpu_upside": 0.0222
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "lending_for_bad_credit",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0058,
+            "median": 0.2691,
+            "gap": 0.2632
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 1.0314,
+            "median": 6.9754,
+            "gap": 5.944
+          }
+        ],
+        "estimated_rpu_upside": 0.0202
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "personal_loans",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.1238,
+            "median": 0.2691,
+            "gap": 0.1453
+          }
+        ],
+        "estimated_rpu_upside": 0.0196
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "5kfunds",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0075,
+            "median": 0.2691,
+            "gap": 0.2615
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.8364,
+            "median": 6.9754,
+            "gap": 6.139
+          }
+        ],
+        "estimated_rpu_upside": 0.0189
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "super_money",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0562,
+            "median": 0.2691,
+            "gap": 0.2128
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0187,
+            "median": 0.0507,
+            "gap": 0.032
+          }
+        ],
+        "estimated_rpu_upside": 0.018
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "lending_for_bad_credit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0078,
+            "median": 0.2691,
+            "gap": 0.2612
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 1.1891,
+            "median": 6.9754,
+            "gap": 5.7863
+          }
+        ],
+        "estimated_rpu_upside": 0.0166
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "personal_loans",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 2.7109,
+            "median": 6.9754,
+            "gap": 4.2646
+          }
+        ],
+        "estimated_rpu_upside": 0.0158
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "my_lending_wallet",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0131,
+            "median": 0.2691,
+            "gap": 0.2559
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.9371,
+            "median": 6.9754,
+            "gap": 6.0384
+          }
+        ],
+        "estimated_rpu_upside": 0.0157
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "debt_relief",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0007,
+            "median": 0.004,
+            "gap": 0.0033
+          }
+        ],
+        "estimated_rpu_upside": 0.0151
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "5kfunds",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0081,
+            "median": 0.2691,
+            "gap": 0.261
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 1.2405,
+            "median": 6.9754,
+            "gap": 5.7349
+          }
+        ],
+        "estimated_rpu_upside": 0.0139
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "debt_relief",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0006,
+            "median": 0.004,
+            "gap": 0.0034
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0155,
+            "median": 0.0507,
+            "gap": 0.0352
+          }
+        ],
+        "estimated_rpu_upside": 0.013
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "my_lending_wallet",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0152,
+            "median": 0.2691,
+            "gap": 0.2539
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.8987,
+            "median": 6.9754,
+            "gap": 6.0767
+          }
+        ],
+        "estimated_rpu_upside": 0.0113
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "personal_loans",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 3.0902,
+            "median": 6.9754,
+            "gap": 3.8852
+          }
+        ],
+        "estimated_rpu_upside": 0.0101
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "debt_relief",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0034,
+            "median": 0.0507,
+            "gap": 0.0473
+          }
+        ],
+        "estimated_rpu_upside": 0.0075
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "engine_credit_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.023,
+            "median": 0.2691,
+            "gap": 0.2461
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0106,
+            "median": 0.0507,
+            "gap": 0.0401
+          }
+        ],
+        "estimated_rpu_upside": 0.0071
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "debt_relief",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0007,
+            "median": 0.0507,
+            "gap": 0.0499
+          }
+        ],
+        "estimated_rpu_upside": 0.0057
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "engine_credit_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.1051,
+            "median": 0.2691,
+            "gap": 0.164
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.019,
+            "median": 0.0507,
+            "gap": 0.0316
+          }
+        ],
+        "estimated_rpu_upside": 0.0052
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "personal_loans",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 3.2096,
+            "median": 6.9754,
+            "gap": 3.7658
+          }
+        ],
+        "estimated_rpu_upside": 0.0049
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "auto_insurance",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.001,
+            "median": 0.2691,
+            "gap": 0.2681
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0038
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "engine_credit_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0165,
+            "median": 0.2691,
+            "gap": 0.2525
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0142,
+            "median": 0.0507,
+            "gap": 0.0364
+          }
+        ],
+        "estimated_rpu_upside": 0.0038
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "auto_insurance",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.001,
+            "median": 0.2691,
+            "gap": 0.268
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0032
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "amone_kovo_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.003,
+            "median": 0.2691,
+            "gap": 0.2661
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0028
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "engine_credit_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0023,
+            "median": 0.0507,
+            "gap": 0.0484
+          }
+        ],
+        "estimated_rpu_upside": 0.0028
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "engine_credit_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0051,
+            "median": 0.0507,
+            "gap": 0.0456
+          }
+        ],
+        "estimated_rpu_upside": 0.0027
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "amone_step_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0144,
+            "median": 0.2691,
+            "gap": 0.2546
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0026
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "super_money",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0036
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0049,
+            "median": 0.0507,
+            "gap": 0.0458
+          }
+        ],
+        "estimated_rpu_upside": 0.0023
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "engine_credit_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0081,
+            "median": 0.0507,
+            "gap": 0.0426
+          }
+        ],
+        "estimated_rpu_upside": 0.0022
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "amone_kovo_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.007,
+            "median": 0.2691,
+            "gap": 0.2621
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0021
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "amone_step_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0225,
+            "median": 0.2691,
+            "gap": 0.2465
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.002
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "free_cash",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0513,
+            "median": 0.2691,
+            "gap": 0.2178
+          }
+        ],
+        "estimated_rpu_upside": 0.0016
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "kashkick",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0019,
+            "median": 0.004,
+            "gap": 0.002
+          }
+        ],
+        "estimated_rpu_upside": 0.0015
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "brigit",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "credit_card_omf",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0011,
+            "median": 0.004,
+            "gap": 0.0029
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "engine_credit_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "Dashboard",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "5kfunds",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "cash_advance",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0003,
+            "median": 0.004,
+            "gap": 0.0037
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0942,
+            "median": 0.2691,
+            "gap": 0.1749
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "current",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "debt_relief",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "lending_for_bad_credit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "my_lending_wallet",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "5kfunds",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "amone_step_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0014
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "amone_step_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0013
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "cash_advance",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0013
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "cash_advance",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0013
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "credit_card_omf",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0008,
+            "median": 0.004,
+            "gap": 0.0032
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0013
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "kashkick_engine",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0011,
+            "median": 0.004,
+            "gap": 0.0029
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0201,
+            "median": 0.2691,
+            "gap": 0.2489
+          }
+        ],
+        "estimated_rpu_upside": 0.0013
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "amone_step_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0012
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "upgrade_personal_loan",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0012
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "kashkick_engine",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0007,
+            "median": 0.004,
+            "gap": 0.0033
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0169,
+            "median": 0.2691,
+            "gap": 0.2522
+          }
+        ],
+        "estimated_rpu_upside": 0.001
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "kashkick",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0018,
+            "median": 0.004,
+            "gap": 0.0022
+          }
+        ],
+        "estimated_rpu_upside": 0.0009
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "super_money",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0036
+          }
+        ],
+        "estimated_rpu_upside": 0.0009
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "upgrade_personal_loan",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0009
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "kashkick",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0222,
+            "median": 0.0507,
+            "gap": 0.0285
+          }
+        ],
+        "estimated_rpu_upside": 0.0009
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0009
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "current",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0174,
+            "median": 0.0507,
+            "gap": 0.0332
+          }
+        ],
+        "estimated_rpu_upside": 0.0008
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "engine_credit_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0037
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0007
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "my_lending_wallet",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0007
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "brigit",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0036
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0006
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "brigit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0006
+      },
+      {
+        "touchpoint": "Comms",
+        "lender": "current",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0216,
+            "median": 0.0507,
+            "gap": 0.0291
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "kikoff",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "lexington_law",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "my_degree",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "amone_step_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.1222,
+            "median": 0.2691,
+            "gap": 0.1469
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "kashkick",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 3.0,
+            "median": 6.9754,
+            "gap": 3.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "amone_kovo_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0005
+      },
+      {
+        "touchpoint": "AI_assistant",
+        "lender": "kashkick_engine",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "Dashboard",
+        "lender": "kashkick",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "moneylion_cashadvance",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "pre_qual_cc",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0009,
+            "median": 0.004,
+            "gap": 0.0031
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "pre_qual_cc",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0035
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "cash_advance",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0035
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0955,
+            "median": 0.2691,
+            "gap": 0.1735
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "debt_relief",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0035
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0382,
+            "median": 0.2691,
+            "gap": 0.2308
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "debt_relief",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0003,
+            "median": 0.004,
+            "gap": 0.0037
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0362,
+            "median": 0.2691,
+            "gap": 0.2329
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "engine_credit_card",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.001,
+            "median": 0.004,
+            "gap": 0.0029
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "free_cash",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0036
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0165,
+            "median": 0.2691,
+            "gap": 0.2525
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "kashkick_engine",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "kashkick_engine",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "lending_for_bad_credit",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "pre_qual_cc",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "super_money",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0004,
+            "median": 0.004,
+            "gap": 0.0036
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0331,
+            "median": 0.2691,
+            "gap": 0.236
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "super_money",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0002,
+            "median": 0.004,
+            "gap": 0.0038
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0769,
+            "median": 0.2691,
+            "gap": 0.1921
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "kashkick",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 3.0,
+            "median": 6.9754,
+            "gap": 3.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "F3",
+        "lender": "pre_qual_cc",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0001,
+            "median": 0.004,
+            "gap": 0.0039
+          },
+          {
+            "stage": "ctr",
+            "actual": 0.0,
+            "median": 0.2691,
+            "gap": 0.2691
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0004
+      },
+      {
+        "touchpoint": "Discover Tab",
+        "lender": "cleo",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.02,
+            "median": 0.0507,
+            "gap": 0.0307
+          }
+        ],
+        "estimated_rpu_upside": 0.0003
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "pre_qual_cc",
+        "segment": "NS1/3 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0652,
+            "median": 0.2691,
+            "gap": 0.2038
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0003
+      },
+      {
+        "touchpoint": "F1",
+        "lender": "pre_qual_cc",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "imp_pct",
+            "actual": 0.0005,
+            "median": 0.004,
+            "gap": 0.0035
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0002
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "amone_step_card",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0002
+      },
+      {
+        "touchpoint": "F2",
+        "lender": "pre_qual_cc",
+        "segment": "NS2 & all CS",
+        "flagged_stages": [
+          {
+            "stage": "ctr",
+            "actual": 0.0615,
+            "median": 0.2691,
+            "gap": 0.2076
+          },
+          {
+            "stage": "conversion_rate",
+            "actual": 0.0,
+            "median": 0.0507,
+            "gap": 0.0507
+          },
+          {
+            "stage": "revenue_per_conversion",
+            "actual": 0.0,
+            "median": 6.9754,
+            "gap": 6.9754
+          }
+        ],
+        "estimated_rpu_upside": 0.0002
+      }
+    ],
+    "total_rpu_upside": 3.7368,
+    "medians": {
+      "imp_pct": 0.004,
+      "ctr": 0.2691,
+      "conversion_rate": 0.0507,
+      "revenue_per_conversion": 6.9754
+    }
+  },
+  "revenue_timing": {
+    "lenders": [
+      {
+        "lender": "5kfunds",
+        "w1_pct": 0.44,
+        "w2_w4_pct": 2.08,
+        "m3_pct": 10.66,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "amone_kovo_card",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "amone_step_card",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "auto_insurance",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "brigit",
+        "w1_pct": 4.02,
+        "w2_w4_pct": 11.55,
+        "m3_pct": 19.87,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "cash_advance",
+        "w1_pct": 5.1,
+        "w2_w4_pct": 11.14,
+        "m3_pct": 19.19,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "cleo",
+        "w1_pct": 64.29,
+        "w2_w4_pct": 35.71,
+        "m3_pct": 0.0,
+        "classification": "fast",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "credit_card_omf",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "current",
+        "w1_pct": 2.32,
+        "w2_w4_pct": 8.8,
+        "m3_pct": 18.4,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "debt_relief",
+        "w1_pct": 0.79,
+        "w2_w4_pct": 19.54,
+        "m3_pct": 32.7,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "earnin",
+        "w1_pct": 8.3,
+        "w2_w4_pct": 62.64,
+        "m3_pct": 29.06,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "engine_credit_card",
+        "w1_pct": 5.2,
+        "w2_w4_pct": 35.8,
+        "m3_pct": 57.61,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "free_cash",
+        "w1_pct": 1.64,
+        "w2_w4_pct": 6.22,
+        "m3_pct": 17.44,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "kashkick",
+        "w1_pct": 8.84,
+        "w2_w4_pct": 31.26,
+        "m3_pct": 21.92,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "kashkick_engine",
+        "w1_pct": 50.0,
+        "w2_w4_pct": 50.0,
+        "m3_pct": 0.0,
+        "classification": "moderate",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "kikoff",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "lending_for_bad_credit",
+        "w1_pct": 0.53,
+        "w2_w4_pct": 2.7,
+        "m3_pct": 8.77,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "lexington_law",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "moneylion_cashadvance",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "my_degree",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "my_lending_wallet",
+        "w1_pct": 0.48,
+        "w2_w4_pct": 3.6,
+        "m3_pct": 16.31,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "ndr",
+        "w1_pct": 4.46,
+        "w2_w4_pct": 27.62,
+        "m3_pct": 50.68,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "personal_loans",
+        "w1_pct": 12.17,
+        "w2_w4_pct": 34.32,
+        "m3_pct": 21.27,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "pre_qual_cc",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "super_money",
+        "w1_pct": 5.59,
+        "w2_w4_pct": 19.41,
+        "m3_pct": 75.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      },
+      {
+        "lender": "upgrade_personal_loan",
+        "w1_pct": 0.0,
+        "w2_w4_pct": 0.0,
+        "m3_pct": 0.0,
+        "classification": "slow",
+        "maturity_projection": {
+          "current_rpu": 0.0,
+          "projected_rpu": 0.0
+        }
+      }
+    ]
+  }
+}

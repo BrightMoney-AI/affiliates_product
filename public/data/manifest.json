@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-03-27T19:09:56.274320+00:00",
+  "generated_at_ist": "28 Mar 2026, 12:39 AM IST",
+  "modules": [
+    "monitoring",
+    "rpu_output",
+    "rca",
+    "insights",
+    "opportunity",
+    "report"
+  ],
+  "cohort_range": {
+    "start": "2025-06-30",
+    "end": "2026-03-23"
+  },
+  "latest_cohort": "2026-03-23"
+}
