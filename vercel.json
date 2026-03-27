@@ -1,0 +1,16 @@
+{
+  "buildCommand": "",
+  "outputDirectory": "public",
+  "framework": null,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "s-maxage=300, stale-while-revalidate=60" }
+      ]
+    }
+  ]
+}
