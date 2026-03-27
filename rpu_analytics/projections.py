@@ -558,7 +558,7 @@ class ProjectionsModule:
             base = (
                 enroll[["feo_cohort"]]
                 .drop_duplicates()
-                .sort_values("feo_cohort", ascending=False)
+                .sort_values("feo_cohort", ascending=True)
             )
             base["feo_cohort"] = pd.to_datetime(base["feo_cohort"], errors="coerce")
         else:
