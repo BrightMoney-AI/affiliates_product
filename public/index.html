@@ -220,12 +220,13 @@ async function init() {
   const data = await resp.json();
   const rows = data.rows.sort((a, b) => a.feo_cohort.localeCompare(b.feo_cohort));
   const generated = new Date(data.generated_at);
+  const generatedIST = data.generated_at_ist || generated.toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }) + ' IST';
 
   const latest = rows[rows.length - 1];
   const prev = rows[rows.length - 2] || latest;
 
   document.getElementById('app').className = '';
-  document.getElementById('app').innerHTML = buildHTML(rows, latest, prev, generated);
+  document.getElementById('app').innerHTML = buildHTML(rows, latest, prev, generatedIST);
 
   renderCharts(rows);
 }
@@ -240,7 +241,7 @@ function pct(v) {
   return (v * 100).toFixed(1) + '%';
 }
 
-function buildHTML(rows, latest, prev, generated) {
+function buildHTML(rows, latest, prev, generatedIST) {
   // Recent 12 weeks for table
   const recent = rows.slice(-12).reverse();
 
@@ -250,7 +251,7 @@ function buildHTML(rows, latest, prev, generated) {
         <h1><span>RPU</span> Projection Dashboard</h1>
       </div>
       <div class="meta">
-        Updated ${generated.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' })}
+        Updated ${generatedIST}
       </div>
     </div>
 
